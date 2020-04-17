@@ -1,6 +1,9 @@
 # HandwriteRecognition
-Handwrite_recognition for atlas200dk
+a handwritten text recognition system for Huawei atlas200dk 
+配置环境请参考官网： https://www.huaweicloud.com/ascend/home.html
 
+# 演示视频
+可以实现自然场景中边写字边识别的功能
 
 # 目录说明
 ## 1. HandwriteRecognition文件夹
@@ -11,6 +14,6 @@ Handwrite_recognition for atlas200dk
 ## 3. om_model文件夹
 转换好的om模型，对应不同的ddk版本分为750和891版本，两者主要区别为在不同的DDK版本下使用模型转换工具转换而成，请依据自己安装的DDK版本选择。
 #
-## *部署详情请看 readme.doc*
+## *部署详情请看 部署说明.doc*
 #
 
